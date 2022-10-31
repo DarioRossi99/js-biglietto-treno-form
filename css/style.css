@@ -1,0 +1,33 @@
+*{
+    border: 1px solid red;
+}
+
+.padding-main{
+    padding: 2rem;
+}
+
+.color-section{
+    background-color: darkred;
+}
+
+.color{
+    color: white;
+    font-size: large;
+    font-family: fantasy;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    color: beige;
+    background-color: orange;
+    border-radius: 50px;
+}
+.row{
+    display: flex;
+    background-color: burlywood;
+    border-radius: 20px
+}
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
