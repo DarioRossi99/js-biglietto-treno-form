@@ -19,11 +19,19 @@
     background-color: orange;
     border-radius: 50px;
 }
+
 .row{
     display: flex;
     background-color: burlywood;
     border-radius: 20px
 }
+
 .text{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button{
+    margin-top: 2rem;
+    border-radius: 20px;
+    background-color: goldenrod;
 }
